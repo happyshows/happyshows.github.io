@@ -1,6 +1,6 @@
 # Site settings
 title: Cool Dad Workshop
-description: 'Cool Dad Workshop'
+description: 'Dedicated to help parents, especially dads to better nurse their child(ren)'
 url: 'https://happyshows.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,10 +9,10 @@ baseurl: ''
 author:
   name: 'Shows Le'
   email: admin@cooldadworkshop.com
-  twitter_username: happyshows
-  facebook_username: happyshows
-  github_username:  happyshows
-  linkedin_username:  happyshows
+  # twitter_username: happyshows
+  # facebook_username: happyshows
+  # github_username:  happyshows
+  # linkedin_username:  happyshows
 
 defaults:
   -
